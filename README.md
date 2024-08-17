@@ -1,1 +1,1 @@
-# catalouge-hacakthon-1
+# Cataloge-hacakthon-1
